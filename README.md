@@ -1,5 +1,6 @@
 # 💫 About Me:
-Passionate software developer dedicated to creating technology as a tool for creating inclusivity and accessibility for marginalized communities. Committed to utilizing innovative solutions to break down barriers and empower individuals through technology.
+
+As a self-taught software engineer, I have honed my skills in languages such as C, Python, and JavaScript through dedicated self-study and hands-on experience. My journey in mastering these languages has been marked by notable accomplishments, including the development of various projects showcasing my proficiency and creativity. Beyond technical expertise, I have also invested time in learning how to thrive in team environments, recognizing the importance of collaboration and effective communication. Through my experiences, I have demonstrated my ability to lead projects, guiding team members towards shared goals and delivering successful outcomes. I am driven by a passion for continuous learning and innovation, always seeking new challenges to further expand my skills and make meaningful contributions to the field of software engineering.
 
 
 ## 🌐 Socials:
